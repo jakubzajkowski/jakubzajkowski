@@ -8,6 +8,8 @@
 
 - 👨‍💻 All about me and some of my projects are available at **[my portfolio](https://portfolio-six-livid-83.vercel.app/)**
 
+- 🌋 See my top projects **[Apple Clone](https://apple-epvi.onrender.com/)** or **[Honey Valley](https://honey-valley.onrender.com/)** 
+
 - 📫 How to reach **jakudjan123@gmail.com** or **[Linkedin](https://www.linkedin.com/in/jakub-zajkowski-bbb75a282/)**
 
 - 💬 I'm open for work in **JavaScript, React, Node.js**
