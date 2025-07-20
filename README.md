@@ -12,7 +12,7 @@
 
 - 💬 I'm open for work in **JavaScript, React, Node.js and Java**
 
-- 🚩 I want to increase my knowledge in Backend, Machine learning and AI
+- 🧠 Check out my coding practice on **[LeetCode](https://leetcode.com/u/aliisop/)**
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
